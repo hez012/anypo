@@ -1,19 +1,29 @@
 # AnyPO — это сильный бренд
 
-# 1) Легкая ассоциация:
+# 🔰 Легкая ассоциация:
 
-Any Point of Operation
-Any Point of Sale
-Any Point of Business
-Any Process Orchestrated
-Any Product / Purchase Order
+  ♨️ Any Point of Operation
+  
+  ♨️ Any Point of Sale
+  
+  ♨️ Any Point of Business
+  
+  ♨️ Any Process Orchestrated
+  
+  ♨️ Any Product / Purchase Order
 
 То есть название не ограничивает систему только "торговлей" — оно универсально.
 
-# 2) Свободно расширяется:
+# 🔰 Свободно расширяется:
 
-AnyPO Retail
-AnyPO Market
-AnyPO Pharma
-AnyPO HoReCa
-AnyPO Mobile
+  ♨️ AnyPO Retail
+  
+  ♨️ AnyPO Market
+  
+  ♨️ AnyPO Pharma
+  
+  ♨️ AnyPO HoReCa
+  
+  ♨️ AnyPO Mobile
+
+
